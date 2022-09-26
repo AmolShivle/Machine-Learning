@@ -21,3 +21,10 @@
 - Driving while distracted, fatigued or drowsy may lead to accidents. Activities that divert the driver's attention from the road ahead, such as engaging in a conversation with other passengers in the car, making or receiving phone calls, sending or receiving text messages, eating while driving or events outside the car may cause driver distraction. Fatigue and drowsiness can result from driving long hours or from lack of sleep.
 
 - The objective of this challenge is to design a detector/classifier that will detect whether the driver is alert or not alert, employing any combination of vehicular, environmental and driver physiological data that are acquired while driving.
+
+
+<a name = Section4></a>
+# **Heart Attack Analysis and Prediction**
+---
+- Every year about 735,000 people have a heart attack. Of these, 525,000 are a first heart attack and 210,000 happen in people who have already had a heart attack.
+- The company wants to create a good data-driven system for predicting heart disease that can improve the entire research and prevention process, making sure that more people can live healthy lives.
