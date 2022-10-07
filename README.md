@@ -28,3 +28,13 @@
 ---
 - Every year about 735,000 people have a heart attack. Of these, 525,000 are a first heart attack and 210,000 happen in people who have already had a heart attack.
 - The company wants to create a good data-driven system for predicting heart disease that can improve the entire research and prevention process, making sure that more people can live healthy lives.
+
+
+
+---
+<a name = Section5></a>
+# **Use Car Price Prediction**
+---
+- This dataset contains information about used cars. This data can be used for a lot of purposes such as price prediction to exemplify the use of linear regression in Machine Learning.
+
+- The objective of this challenge is to design a model that give use car price prediciton.
