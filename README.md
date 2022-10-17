@@ -38,3 +38,14 @@
 - This dataset contains information about used cars. This data can be used for a lot of purposes such as price prediction to exemplify the use of linear regression in Machine Learning.
 
 - The objective of this challenge is to design a model that give use car price prediciton.
+
+
+
+---
+<a name = Section6></a>
+# **Big Mart Sales Prediciton**
+---
+- The data scientists at BigMart have collected 2013 sales data for 1559 products across 10 stores in different cities. Also, certain attributes of each product and store have been defined. The aim is to build a predictive model and predict the sales of each product at a particular outlet.
+- BigMart will try to understand the properties of products and outlets which play a key role in increasing sales.
+- So need to build a Regression model using the dataset on outlet sales.
+
