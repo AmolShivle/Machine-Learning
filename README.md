@@ -49,3 +49,17 @@
 - BigMart will try to understand the properties of products and outlets which play a key role in increasing sales.
 - So need to build a Regression model using the dataset on outlet sales.
 
+
+---
+<a name = Section7></a>
+# **HumanResources Employee Prediction**
+---
+- Your client for this project is the HR Department at a software company.
+- They want to try a new initiative to retain employees.
+The idea is to use data to predict whether an employee is likely to leave.
+- Once these employees are identified, HR can be more proactive in reaching out to them before it's too late.
+They only want to deal with the data that is related to permanent employees.
+- Current Practice
+Once an employee leaves, he or she is taken an interview with the name “exit interview” and shares reasons for leaving. The HR Department then tries and learns insights from the interview and makes changes accordingly.
+- You are given datasets of past employees and their status (still employed or already left). Your task is to build a classification model using the datasets.
+
